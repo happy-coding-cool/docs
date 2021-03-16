@@ -1,4 +1,4 @@
-* [简介](/)
+* [简介](/home)
 * [使用步骤](happy-code/guide)
 * [技术组件](happy-code/starters/01-happy-code-starter-web)
     * [web组件](happy-code/starters/01-happy-code-starter-web)
@@ -8,4 +8,5 @@
     * [mybatis组件](happy-code/starters/05-happy-code-starter-mybatis)
     * [cache组件](happy-code/starters/06-happy-code-starter-cache)
     * [log组件](happy-code/starters/07-happy-code-starter-log)
+* [脚手架](happy-code/bootstrap)    
 * [版本更新](happy-code/release)

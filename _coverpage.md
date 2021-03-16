@@ -1,4 +1,4 @@
-![logo](_media/logo.jpg)
+![logo](_media/icon.jpg ':size=100x100')
 
 # happy-code <small>1.0.1</small>
 
@@ -8,6 +8,6 @@
 - 众多主题
 
 [GitHub](https://github.com/happy-coding-cool)
-[Get Started](#)
+[Get Started](#start)
 
 ![color](#fde6b3)
