@@ -1,6 +1,6 @@
 * [简介](/)
 * [使用步骤](zh-cn/guide)
-* [技术组件](zh-cn/starters)
+* [技术组件]()
     * [web组件](zh-cn/starters/01-happy-code-starter-web)
     * [validator组件](zh-cn/starters/03-happy-code-starter-validator)
     * [swagger组件](zh-cn/starters/02-happy-code-starter-swagger)
