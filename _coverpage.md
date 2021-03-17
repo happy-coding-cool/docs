@@ -8,4 +8,4 @@
 [GitHub](https://github.com/happy-coding-cool)
 [Get Started](#start)
 
-![color](#fde6b3)
+![color](#e8e7ca)
