@@ -5,7 +5,7 @@
 到得还来别无事，庐山烟雨浙江潮。
 
 ## 作者简介
-- 入行8年、始终未脱离研发一线
+- 入行九载、始终未脱离研发一线
 - 干的了开发（5年以上）、做的了架构（3年以上）
 - 目前就职于某集团企业的科技子公司负责Devops平台建设
 - 主要感兴趣领域：微服务、云原生、Devops
@@ -23,7 +23,7 @@
 >Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). Coordination of distributed systems leads to boiler plate patterns, and using Spring Cloud developers can quickly stand up services and applications that implement those patterns. They will work well in any distributed environment, including the developer’s own laptop, bare metal data centres, and managed platforms such as Cloud Foundry.	
 -- 摘自 Spring Cloud官网
 
-目前SpringCloud已经成为构建微服务架构的事实标准，因此框架的技术选型，主要以Spring Cloud技术体系为主同时会结合Spring Cloud Alibaba技术栈。
+目前SpringCloud已经成为构建微服务架构的事实标准，因此框架的技术选型上，主要以Spring Cloud技术体系为主同时会结合Spring Cloud Alibaba技术栈。
 
 |  服务   | Spring Cloud官方  | Spring Cloud Netflix  | Spring Cloud Alibaba  | Happy Code  |
 |:----|:----|:----|:----|:----  |
