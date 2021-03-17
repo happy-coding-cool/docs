@@ -10,3 +10,4 @@
     * [log组件](happy-code/starters/07-happy-code-starter-log)
 * [脚手架](happy-code/bootstrap)    
 * [版本更新](happy-code/release)
+* [书单推荐](/books)
