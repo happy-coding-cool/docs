@@ -27,8 +27,17 @@
 
 |  服务   | Spring Cloud官方  | Spring Cloud Netflix  | Spring Cloud Alibaba  | Happy Code  |
 |:----|:----|:----|:----|:----  |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 
+| 配置中心  | Spring Cloud Config | Archaius | Nacos Config | Nacos Config | 
+| 服务注册/发现  | -- | Eureka | Nacos Discovery | Nacos Discovery | 
+| 服务熔断/降级  | -- | Hystrix | Sentinel | Sentinel |
+| 服务网关  | Spring Cloud Gateway | Zuul | Dubbo + Servlet | Spring Cloud Gateway |
+| 服务调用  | OpenFeign/RestTemplate | Feign | Dubbo RPC | OpenFeign/RestTemplate |
+| 负载均衡  | -- | Ribbon | Dubbo LoadBalance | Ribbon |
+| 分布式消息  | RabbitMQ Binder | -- | RocketMQ Binder | RocketMQ Binder |
+| 消息总线  | RabbitMQ Bus | -- | RocketMQ Bus | RocketMQ Bus |
+| 分布式事务  | -- | -- | Seata | Seata |
+| 缓存  | -- | -- | -- | Jetcache |
+| 定时调度  | -- | -- | -- | XXL-JOB |
 
 ## 工程清单
 
