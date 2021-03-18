@@ -75,6 +75,7 @@
 - [transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)
 - [Nacos](https://nacos.io/zh-cn/docs/quick-start.html)
 - [Seata](http://seata.io/zh-cn/docs/user/quickstart.html)
+- [Sentinel](https://github.com/alibaba/Sentinel/wiki/%E4%BB%8B%E7%BB%8D)
 - [knife4j](https://gitee.com/xiaoym/knife4j)
 - [hutool](https://hutool.cn/)
 - [mybatis](https://mybatis.org/mybatis-3/zh/index.html)
