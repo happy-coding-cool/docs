@@ -50,7 +50,8 @@ compile 'cool.happycoding:happy-code-starter-log'
     happy.code.log.excludes
 ```   
 
-    
+
 #### 参考资料
-无
+- [Slf4j-MDC](http://logback.qos.ch/manual/mdc.html)
+- [LogBack](https://logback.qos.ch/manual/index.html)
   
