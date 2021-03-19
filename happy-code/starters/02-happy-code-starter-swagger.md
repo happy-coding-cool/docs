@@ -27,6 +27,7 @@ compile 'cool.happycoding:happy-code-starter-swagger'
 
 #### 配置项
 
+```
     ## 是否启用swagger 默认true，即启用
     happy.code.swagger.enable
     ## 文档分组，默认spring.application.name
@@ -47,6 +48,8 @@ compile 'cool.happycoding:happy-code-starter-swagger'
     happy.code.swagger.contact.name
     ## 联系方式-email
     happy.code.swagger.contact.email
+```
+
 
 ### 参考链接
 - [knife4j](https://gitee.com/xiaoym/knife4j)

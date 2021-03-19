@@ -64,11 +64,14 @@ compile 'cool.happycoding:happy-code-starter-validator'
 
 
 #### 配置项
+
+```
     ## 此配置等同于: hibernate.validator.fail_fast
     ## 快速失败模式(即：当有多个校验规则时为true时，有一个不满足立即结束校验，false：则会校验完所有规则)
     ## 默认: false
     happy.code.validator.fail-fast
-        
+```
+    
 ### 参考资料
 - [JSR 303 – Bean Validation 介绍及最佳实践](https://developer.ibm.com/zh/articles/j-lo-jsr303/)
    

@@ -3,11 +3,13 @@
 ### 1.0.1-SNAPSHOT[current]
 - feat: 引入jetcache完善cache组件
 - feat: 完善mybatis组件引入乐观锁定义支持
-- feat: 引入阿里ThreadLocal组件
+- feat: 完善log组件
+- feat: 引入 transmittable-thread-local
 - feat: 定义默认线程池(happyThreadPoolExecutor)，解决线程切换时上下文传递问题
 - feat: web组件提供自定fastjson 序列化/反序列化配置扩展FastJsonConfigCustomizer
 - refactor: 更改组件依赖的继承体系，该改动会造成依赖不兼容的问题，按照新的配置方式进行调整即可
 - refactor: 参照cola架构对异常和返回值封装进行优化
+- fix: 修复cache组件@EnableHappyCache组合注解无法创建缓存代理导致方法上的@Cached注解失效的问题
 
 ### 1.0.0.RELEASE 
 - feat: 初始版本

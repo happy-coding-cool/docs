@@ -41,6 +41,7 @@ compile 'cool.happycoding:happy-code-starter-web'
 
 #### 配置项
 
+```
     ## 启用统一的日期序列化，默认：启用
     happy.code.web.serializer.enable-date
     ## 日期序列化格式，默认：yyyy-MM-dd HH:mm:ss
@@ -59,7 +60,7 @@ compile 'cool.happycoding:happy-code-starter-web'
     happy.code.web.pool.allow-core-thread-time-out
     happy.code.web.pool.keep-alive-time
     happy.code.web.pool.queue-capacity
-    
+```
 
 #### 扩展
 - 采用fastjson作为序列化/反序列化工具时,可以通过 FastJsonConfigCustomizer 扩展指定数据类型的序列化/反序列化实现

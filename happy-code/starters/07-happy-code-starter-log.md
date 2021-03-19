@@ -32,14 +32,15 @@ compile 'cool.happycoding:happy-code-starter-log'
 - 应用可以通过实现 MdcParamCollector 接口将需要的参数放入MDC
 - 组件提供来默认实现，放入trace-id
 注：放入MDC的参数，可以通过日志配置进行打印，以trace-id为例，格式为：```[%{trace-id}]```
- 
+
+
 #### 配置项
 ```
     ## 是否启用mdc 特性，默认：启用，true
     happy.code.log.enable-mdc
     ## 是否启用打印请求耗时，默认：启用，true
     happy.code.log.enable-exe-time
-
+    
     ## 是否打印请求header，默认：关闭，false
     happy.code.log.enable-print-header
     ## 是否打印请求参数，默认：关闭，false

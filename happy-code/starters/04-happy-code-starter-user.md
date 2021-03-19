@@ -34,6 +34,7 @@ compile 'cool.happycoding:happy-code-starter-user'
 
 #### 配置项
 
+```
     ## userId 默认值：-1
     happy.code.user.default-user-id
     ## userName 默认值：system
@@ -42,3 +43,9 @@ compile 'cool.happycoding:happy-code-starter-user'
     happy.code.user.user-id-field
     ## UserContextLoadFilter的顺序，默认：1
     happy.code.user.filter-order
+```
+
+
+
+### 参考链接
+无    

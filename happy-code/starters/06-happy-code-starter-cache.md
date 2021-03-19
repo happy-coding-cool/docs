@@ -30,6 +30,7 @@ compile 'cool.happycoding:happy-code-starter-cache'
 #### 配置项
 连接配置，采用spring-data-redis原生配置即可：
 
+```
     ## 单机模式
     spring.redis.url
    
@@ -47,21 +48,28 @@ compile 'cool.happycoding:happy-code-starter-cache'
    
     ## 当有密码时配置
     spring.redis.password
-    
+```
+   
 连接池配置
-    
+
+```
     # 参考
     spring.redis.lettuce.pool.max-active
     spring.redis.lettuce.pool.min-idle
+```
+    
+
      
 其他配置项
-
+```
     ## 统计间隔 默认 30 min 等同于 jetcache.statIntervalMinutes
     happy.code.cache.stat-interval-minutes
     ## 等同于 jetcache.hiddenPackages
     happy.code.cache.hidden-packages
     ## 以毫秒为单位，指定多长时间没有访问，就让缓存失效，默认30min，当前只有本地缓存支持，等同于：jetcache.local.defalut.expireAfterAccessInMillis
     happy.code.cache.local-default-expire-after-access-in-millis
+
+```
 
 注：以上配置针对：default区设置，如需要更多的缓存区设置，请参照Jetcache的原生配置   
     
