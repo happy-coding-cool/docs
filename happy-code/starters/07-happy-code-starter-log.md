@@ -25,6 +25,13 @@ compile 'cool.happycoding:happy-code-starter-log'
 - 提供了打印请求响应时间间隔特性
 - 提供MDC设置特性
 - 提供打印请求/响应数据的特性
+
+注：由于返回的结果类型可能无法打印，因此组件只是提供了对返回类型为json的结果
+
+#### 扩展
+- 应用可以通过实现 MdcParamCollector 接口将需要的参数放入MDC
+- 组件提供来默认实现，放入trace-id
+注：放入MDC的参数，可以通过日志配置进行打印，以trace-id为例，格式为：```[%{trace-id}]```
  
 #### 配置项
 ```
@@ -42,6 +49,7 @@ compile 'cool.happycoding:happy-code-starter-log'
     ## 启用以上三个属性时，需要忽略打印的请求url
     happy.code.log.excludes
 ```   
+
     
 #### 参考资料
 无
