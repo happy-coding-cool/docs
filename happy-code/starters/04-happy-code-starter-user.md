@@ -48,4 +48,5 @@ compile 'cool.happycoding:happy-code-starter-user'
 
 
 ### 参考链接
-无    
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-user-sample)
+ 

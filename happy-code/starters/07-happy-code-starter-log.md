@@ -55,4 +55,6 @@ compile 'cool.happycoding:happy-code-starter-log'
 #### 参考资料
 - [Slf4j-MDC](http://logback.qos.ch/manual/mdc.html)
 - [LogBack](https://logback.qos.ch/manual/index.html)
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-log-sample)
+
   

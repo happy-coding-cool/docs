@@ -74,7 +74,8 @@ compile 'cool.happycoding:happy-code-starter-validator'
     
 ### 参考资料
 - [JSR 303 – Bean Validation 介绍及最佳实践](https://developer.ibm.com/zh/articles/j-lo-jsr303/)
-   
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-validator-sample)
+
  
 
 

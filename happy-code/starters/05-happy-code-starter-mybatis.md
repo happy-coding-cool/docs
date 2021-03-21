@@ -62,4 +62,6 @@ compile 'cool.happycoding:happy-code-starter-mybatis'
 ```   
     
 #### 参考资料
-- [Mybatis-plus 文档](https://baomidou.com/)      
+- [Mybatis-plus 文档](https://baomidou.com/)  
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-mybatis-sample)
+    

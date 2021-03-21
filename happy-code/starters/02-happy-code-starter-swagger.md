@@ -53,3 +53,4 @@ compile 'cool.happycoding:happy-code-starter-swagger'
 
 ### 参考链接
 - [knife4j](https://gitee.com/xiaoym/knife4j)
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-swagger-sample)

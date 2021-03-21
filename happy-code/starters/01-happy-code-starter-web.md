@@ -66,5 +66,6 @@ compile 'cool.happycoding:happy-code-starter-web'
 - 采用fastjson作为序列化/反序列化工具时,可以通过 FastJsonConfigCustomizer 扩展指定数据类型的序列化/反序列化实现
 - 采用jackson2作为序列化/反序列化工具时,可以通过 Jackson2ConfigCustomizer 扩展指定数据类型的序列化/反序列化实现
 
+
 ### 参考链接
-无
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-web-sample)

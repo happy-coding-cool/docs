@@ -117,6 +117,8 @@ public interface TestService {
   
 #### 参考资料
 - [JetCache](https://github.com/alibaba/jetcache/wiki/Home_CN) 
-- [lettuce](https://lettuce.io/docs/getting-started.html)   
+- [lettuce](https://lettuce.io/docs/getting-started.html)  
+- [代码示例](https://github.com/happy-coding-cool/happy-code-samples/tree/main/happy-code-starter-cache-sample)
+ 
     
 
