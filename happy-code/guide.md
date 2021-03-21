@@ -1,6 +1,8 @@
 ## 使用步骤
 ### 引入Parent
-[maven](https://mvnrepository.com/search?q=happycoding)
+- [MAVEN](https://mvnrepository.com/search?q=happycoding) 
+- 最新版本：```1.0.1.RELEASE``` 
+
 ```xml
 <parent>
     <groupId>cool.happycoding</groupId>
