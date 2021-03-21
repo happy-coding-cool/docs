@@ -1,4 +1,4 @@
-![logo](_media/icon.jpg ':size=100x100')
+![logo](_media/cover-logo.jpeg ':size=100x100 :id=cover-logo')
 
 # happy-code <small>1.0.1.RELEASE</small>
 
@@ -8,4 +8,4 @@
 [GitHub](https://github.com/happy-coding-cool)
 [Get Started](#start)
 
-![color](#e8e7ca)
+![color](#b7e7dd)
