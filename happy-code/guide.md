@@ -1,5 +1,6 @@
 ## 使用步骤
 ### 引入Parent
+[maven](https://mvnrepository.com/search?q=happycoding)
 ```xml
 <parent>
     <groupId>cool.happycoding</groupId>
