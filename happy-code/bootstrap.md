@@ -6,10 +6,13 @@ happy-code 脚手架工具
 - 项目引入了mybatis-plus-generator并做了功能扩展，使其更加符合happy code框架所倡导的工程结构
 
 ### 项目截图
+
 - 填写生成所需的参数信息
 ![](../_media/start-01.png)
+
 - 填写数据库连接信息，生成单表操作接口
 ![](../_media/start-03.png)
+
 - 生成代码预览
 ![](../_media/start-02.png)
 
