@@ -1,7 +1,7 @@
 ## 使用步骤
 ### 引入Parent
 - [MAVEN](https://mvnrepository.com/search?q=happycoding) 
-- 最新版本：```1.0.1.RELEASE``` 
+- 最新版本：```1.0.2.RELEASE``` 
 
 ```xml
 <parent>
