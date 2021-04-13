@@ -1,4 +1,5 @@
 * [简介](/home)
+* [平台介绍](/happy-code/concept/introduce.md)
 * [使用步骤](happy-code/guide)
 * [技术组件](happy-code/starters/01-happy-code-starter-web)
     * [WEB组件](happy-code/starters/01-happy-code-starter-web)

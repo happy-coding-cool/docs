@@ -46,13 +46,13 @@
 - happy-code-dependencies
 - happy-code-parent 
 - happy-code-starters 核心组件(持续扩充...)
-  - happy-code-starter-log
-  - happy-code-starter-mybatis
-  - happy-code-starter-user
+  - happy-code-starter-web
   - happy-code-starter-swagger
   - happy-code-starter-validator
-  - happy-code-starter-web
+  - happy-code-starter-mybatis
+  - happy-code-starter-user
   - happy-code-starter-cache
+  - happy-code-starter-log
   - happy-code-starter-mq
 
 ### 重要依赖
