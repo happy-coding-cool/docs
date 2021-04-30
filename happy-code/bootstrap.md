@@ -3,7 +3,7 @@ happy-code 脚手架工具
 ### 简介
 - 该项目为happy-code框架的配套脚手架，方便单独部署，应用为单体架构
 - 项目参考了Spring Initializr和Aliyun Java Initializr的实现形式
-- 项目引入了mybatis-plus-generator并做了功能扩展，使其更加符合happy code框架所倡导的工程结构
+- 项目引入了mybatis-plus-generator并按照happy code框架所倡导的工程结构做了功能扩展
 
 ### 项目截图
 
