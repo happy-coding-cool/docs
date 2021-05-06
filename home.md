@@ -11,7 +11,7 @@
 - 主要感兴趣领域：微服务、云原生、Devops
 - 喜欢整洁的系统架构，致力于通过技术手段来解决研发人员的"被动"处境
 - 非常喜欢苏东坡的人生态度
-- mail: pzsoftchen@163.com; WX:pzsoftchen
+- <img class="icon-front" src="_media/email.png" />: pzsoftchen@163.com  <img class="icon-front" src="_media/weixin1-copy.png" />: pzsoftchen 
 
 ## 框架介绍
 根据作者多年的项目研发经验发现大部分的研发人员在开发过程中遇到的"奇奇怪怪"的问题，90%以上基本都可以通过一些良好技术组件规避掉，因此有了这套技术框架。
