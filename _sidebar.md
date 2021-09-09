@@ -13,6 +13,7 @@
     * [日志组件](happy-code/starters/07-happy-code-starter-log)
 * [脚手架](happy-code/bootstrap)    
 * [版本更新](happy-code/release#_102RELEASE)
+    * [1.0.3.RELEASE](happy-code/release#_103RELEASE)
     * [1.0.2.RELEASE](happy-code/release#_102RELEASE)
     * [1.0.1.RELEASE](happy-code/release#_101RELEASE)
     * [1.0.0.RELEASE](happy-code/release#_100RELEASE)
